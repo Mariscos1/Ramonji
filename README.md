@@ -1,2 +1,0 @@
-# Ramonji
-Kanji Learning website
