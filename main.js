@@ -14,6 +14,6 @@ document.getElementById("data").innerHTML = `
 ${kanjiData.map(function(symbol){
   return symbol.kan
 }).join('')}
-<p class="footer">These $(kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
+<p class="footer">These ${kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
 `
 
