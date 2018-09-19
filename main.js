@@ -8,4 +8,4 @@ const kanjiData = [
     meaning: "i don't know"
   }
   ];
-
+document.getElementById("data").innerHTML = `Hello`
