@@ -15,6 +15,7 @@ const kanjiData = [
 
 function kanjiTemplate(symbol){
   return `
+<link rel="stylesheet" type="text/css" href="something.css" />
   <div class="kanji">
     <h2 class="kan-name">${symbol.kan} <span class="species">(${symbol.hira})</span> <span class="species">(${symbol.kata})</span>
 </h2>
