@@ -12,11 +12,19 @@ const kanjiData = [
       meaning: "one"
   },
   ];
+
+function kanjiTemplate(symbol){
+  return `
+  <div class="kanji">
+    <h2 class="kan-name">${symbol.kan} <span class="species">(${symbol.hira})</span> <span class="species">(${symbol.kata})</span>
+</h2>
+  <p class="meaning"><strong>Meaning:</strong> ${symbol.meaning}</p>
+  </div>
+  `
+}
 document.getElementById("data").innerHTML = `
-<link rel="stylesheet" type="text/css" href="something.css" />
+      <link rel="stylesheet" type="text/css" href="something.css" />
 <h1 class="data-title">Kanji (${kanjiData.length})results<h1>
-${kanjiData.map(function(symbol){
-  return symbol.kan
-}).join(' ')}
+${kanjiData.map(kanjiTemplate).join('')}
 <p class="footer">These ${kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
 `
