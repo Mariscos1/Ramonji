@@ -9,5 +9,6 @@ const kanjiData = [
   }
   ];
 document.getElementById("data").innerHTML = `
-<h1 class="data-title" style="text-align:center;background-color: #F74E51; margin:0;">Kanji(${kanjiData.length}) results<h1>
+<h1 class="data-title">Kanji(${kanjiData.length}) results<h1>
 `
+
