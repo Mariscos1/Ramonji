@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="something.css" />
 const kanjiData = [
   {
     kan: "hello",
