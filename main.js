@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="something.css" />
 const kanjiData = [
   {
     kan: "hello",
@@ -10,6 +9,7 @@ const kanjiData = [
   }
   ];
 document.getElementById("data").innerHTML = `
+<link rel="stylesheet" type="text/css" href="something.css" />
 <h1 class="data-title">Kanji (${kanjiData.length})results<h1>
 `
 
