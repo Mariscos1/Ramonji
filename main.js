@@ -1,12 +1,16 @@
 const kanjiData = [
   {
-    kan: "hello",
-    meaning: "die"
+      kan: "日",
+      "ひ, -び, -か",
+      "ニチ, ジツ",
+      meaning: "day, sun, Japan, counter for days"
   },
   {
-    kan: "goodbye",
-    meaning: "i don't know"
-  }
+      kan: "一",
+      "ひと-, ひと",
+      "イチ, イツ",
+      meaning: "one"
+  },
   ];
 document.getElementById("data").innerHTML = `
 <link rel="stylesheet" type="text/css" href="something.css" />
