@@ -8,4 +8,6 @@ const kanjiData = [
     meaning: "i don't know"
   }
   ];
-document.getElementById("data").innerHTML = `goodbye`
+document.getElementById("data").innerHTML = `
+<h1 class="data-title">Kanji(${kanjiData.length} results<h1>
+
