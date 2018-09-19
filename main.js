@@ -1,14 +1,14 @@
 const kanjiData = [
   {
       kan: "日",
-      "ひ, -び, -か",
-      "ニチ, ジツ",
+      hira:"ひ, -び, -か",
+      kata: "ニチ, ジツ",
       meaning: "day, sun, Japan, counter for days"
   },
   {
       kan: "一",
-      "ひと-, ひと",
-      "イチ, イツ",
+      hira: "ひと-, ひと",
+      kata: "イチ, イツ",
       meaning: "one"
   },
   ];
@@ -20,4 +20,3 @@ ${kanjiData.map(function(symbol){
 }).join(' ')}
 <p class="footer">These ${kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
 `
-
