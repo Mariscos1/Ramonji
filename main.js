@@ -109,7 +109,7 @@ function kanjiTemplate(symbol){
 }
 document.getElementById("data").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
-<h1 class="data-title" style="background-color: #F74E51;">Kanji (${kanjiData.length})results<h1>
+<h1 class="data-title" style="background-color: #F74E51;margin:0;"">Kanji (${kanjiData.length})results<h1>
 ${kanjiData.map(kanjiTemplate).join('')}
 <p class="footer">These ${kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
 `
