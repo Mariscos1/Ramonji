@@ -95,6 +95,12 @@ const kanjiData = [
      kata:  "ジ",
      meaning:  "time, hour"
   }
+  {
+    kan: "友",
+    hira: "とも",
+    kata: "トモ",
+    meaning: "friend"
+  }
   ];
 
 function kanjiTemplate(symbol){
