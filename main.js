@@ -1,7 +1,7 @@
 let kanjiData;
 
 function preload(){
- kanjiData = loadJSON("/kanji.json");
+ kanjiData = loadJSON("https://mariscos1.github.io/Ramonji/kanji.json");
 }
 function setup() {
   noCanvas();
