@@ -94,7 +94,7 @@ const kanjiData = [
      hira: "とき, -どき",
      kata:  "ジ",
      meaning:  "time, hour"
-  }
+  },
   {
     kan: "友",
     hira: "とも",
