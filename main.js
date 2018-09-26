@@ -30,7 +30,7 @@ document.getElementById("data").innerHTML = `
 </style>
 <body>
 <h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji Object.keys(kanjiData).length results</a><h1>
-Object.keys(kanjiData).map(kanjiTemplate).join('')
+console.log(Object.keys(kanjiData).map(kanjiTemplate).join(''));
 <p class="footer">These Object.keys(kanjiData).length kanji were added recently. Check back soon for updates. UwU</p>
 </body>
 `
