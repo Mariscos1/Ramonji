@@ -1,7 +1,6 @@
 var request = new XMLHttpRequest();
 request.open('GET', "https://mariscos1.github.io/Ramonji/kanji.json", true);
 
-var kanjiData;
 
  request.onload = function() {
   var kanjiData = JSON.parse(request.responseText);
