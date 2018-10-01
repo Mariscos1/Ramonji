@@ -1,12 +1,11 @@
-let kanjiData;
+var request = new XMLHttpRequest();
+request.open('GET', "https://mariscos1.github.io/Ramonji/kanji.json", true);
 
-function preload(){
- kanjiData = loadJSON("https://mariscos1.github.io/Ramonji/kanji.json");
-}
-function setup() {
-  noCanvas();
-}
-  
+var kanjiData;
+
+ request.onload = function() {
+  var kanjiData = JSON.parse(request.responseText);
+ }
 
 function kanjiTemplate(symbol){
   return `
@@ -19,8 +18,10 @@ function kanjiTemplate(symbol){
   `
 }
 
-
-
+function setup() {
+  noCanvas();
+}
+  
 document.getElementById("data").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
 <style>
@@ -29,8 +30,8 @@ document.getElementById("data").innerHTML = `
 }
 </style>
 <body>
-<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji Object.keys(kanjiData).length results</a><h1>
-${Object.keys(kanjiData).map(kanjiTemplate).join('')}
-<p class="footer">These Object.keys(kanjiData).length kanji were added recently. Check back soon for updates. UwU</p>
+<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji kanjiData.length results</a><h1>
+
+<p class="footer">These kanjiData.length kanji were added recently. Check back soon for updates. UwU</p>
 </body>
 `
