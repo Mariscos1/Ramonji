@@ -1,10 +1,10 @@
-var request = new XMLHttpRequest();
+var xmlhttp = new XMLHttpRequest();
 var url = "https://mariscos1.github.io/Ramonji/kanji.json";
 
 xmlhttp.onreadystatechange = function() {
 if (this.readyState == 4 && this.status == 200) {
     var kanjiData = JSON.parse(this.responseText);
-    myFunction(kanjiData);
+    ${kanjiData.map(kanjiTemplate).join('')}
     }
 };
 xmlhttp.open("GET", url, true);
