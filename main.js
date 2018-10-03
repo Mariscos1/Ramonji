@@ -10,7 +10,7 @@ if (this.readyState == 4 && this.status == 200) {
 xmlhttp.open("GET", url, true);
 xmlhttp.send();
 
-/*function kanjiTemplate(symbol){
+function kanjiTemplate(symbol){
   return `
 <link rel="stylesheet" type="text/css" href="something.css" />
   <div class="kanji">
@@ -24,7 +24,7 @@ xmlhttp.send();
 function setup() {
   noCanvas();
 }
-  
+/*
 document.getElementById("data").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
 <style>
