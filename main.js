@@ -25,6 +25,9 @@ function kanjiTemplate(symbol){
 function setup() {
   noCanvas();
 }
+function hello(){
+    Objects.keys(kanjiData).length;
+}
 
 document.getElementById("data").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
@@ -34,7 +37,7 @@ document.getElementById("data").innerHTML = `
 }
 </style>
 <body>
-<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${Object.keys(kanjiData).length}) results</a><h1>
+<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${5}) results</a><h1>
 ${kanjidata.map(kanjiTemplate)}
 <p class="footer">These kanjiData.length kanji were added recently. Check back soon for updates. UwU</p>
 </body>
