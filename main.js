@@ -100,6 +100,12 @@ const kanjiData = [
     hira: "とも",
     kata: "トモ",
     meaning: "friend"
+  },
+  {
+    kan: "右",
+    hira: "みぎ",
+    kata: "ミギ",
+    meaning: "right"
   }
   ];
 
