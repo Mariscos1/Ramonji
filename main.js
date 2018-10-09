@@ -133,7 +133,7 @@ document.getElementById("data").innerHTML = `
 }
 </style>
 <body>
-<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${kanjiData.length})results</a><h1>
+<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${kanjiData.length})Results</a><h1>
 ${kanjiData.map(kanjiTemplate).join('')}
 <p class="footer">These ${kanjiData.length} kanji were added recently. Check back soon for updates. UwU</p>
 </body>
