@@ -107,12 +107,12 @@ const kanjiData = [
     kata: "ミギ",
     meaning: "right"
   },
-  }
+  {  
     kan: "左",
     hira: "ひだり",
     kata: "ヒダリ",
     meaning: "left"
-  {
+  }
   ];
 
 function kanjiTemplate(symbol){
