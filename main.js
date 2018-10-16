@@ -116,7 +116,7 @@ const kanjiData = [
   {
     kan: "桜",
     hira: "さくら",
-    kata: "サクラ".
+    kata: "サクラ",
     meaning: "cherry blossom"
   }
   ];
