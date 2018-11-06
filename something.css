@@ -87,3 +87,8 @@ li a {
 li a:hover {
     background-color: #111111;
 }
+.words{
+  font-size: 1rem;
+  color: #5d5955;
+  margin: 0 0 1rem 0;
+}
