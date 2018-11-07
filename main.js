@@ -82,6 +82,20 @@ const kanjiData = [
     hira:"つき",
     kata:"ツキ",
     meaning: "Moon, Counter for Months"
+  },
+  {
+    kan:"年",
+    roma:"Toshi",
+    hira:"とし",
+    kata:"トシ",
+    meaning: "Counter for year"
+  },
+  {
+    kan:"木",
+    roma:"Ki",
+    hira:"き",
+    kata:"キ",
+    meaning: "Tree"
   }
   
   ];
