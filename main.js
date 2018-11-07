@@ -68,7 +68,15 @@ const kanjiData = [
     hira:"じゅう",
     kata:"ジュウ",
     meaning: "Ten"
+  },
+  {
+    kan:"日",
+    roma:"Hi",
+    hira:"ひ",
+    kata:"ヒ",
+    meaning: "Sun; Counter for Days"
   }
+  
   ];
 
 function kanjiTemplate(symbol){
