@@ -33,6 +33,41 @@ const kanjiData = [
     hira:"ご",
     kata:"ゴ",
     meaning: "Five"
+  },
+  {
+    kan:"六",
+    roma:"Roku",
+    hira:"ろく",
+    kata:"ロク",
+    meaning: "Six"
+  },
+  {
+    kan:"七",
+    roma:"Shichi",
+    hira:"しち",
+    kata:"シチ",
+    meaning: "Seven"
+  },
+  {
+    kan:"八",
+    roma:"Hachi",
+    hira:"はち",
+    kata:　"ハチ",
+    meaning: "Eight"
+  },
+  {
+    kan:"九",
+    roma:"Kyuu",
+    hira:"きゅう",
+    kata:"キュウ",
+    meaning: "Nine"
+  },
+  {
+    kan:"十",
+    roma:"Juu",
+    hira:"じゅう",
+    kata:"ジュウ",
+    meaning: "Ten"
   }
   ];
 
