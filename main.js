@@ -75,6 +75,13 @@ const kanjiData = [
     hira:"ひ",
     kata:"ヒ",
     meaning: "Sun; Counter for Days"
+  },
+  {
+    kan:"月",
+    roma:"Tsuki",
+    hira:"つき",
+    kata:"ツキ",
+    meaning: "Moon, Counter for Months"
   }
   
   ];
