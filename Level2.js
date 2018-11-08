@@ -110,7 +110,7 @@ function kanjiTemplate(symbol){
   </div>
   `
 }
-document.getElementById("data").innerHTML = `
+document.getElementById("displaytwo").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
 <style>
   body{
