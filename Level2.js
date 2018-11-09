@@ -1,4 +1,4 @@
-const level2Words = [
+const leveltwo = [
   {
       kan: "一",
       roma: "Ichi",
@@ -118,8 +118,8 @@ document.getElementById("displaytwo").innerHTML = `
 }
 </style>
 <body>
-<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${level2words.length}) Results</a><h1>
-${level2Words.map(kanjiTemplate).join('')}
-<p class="footer">These ${level2Words.length} kanji were added recently. Check back soon for updates. UwU</p>
+<h1 class="data-title" style="background-color: #F74E51;margin:0;border:0"><a href="index.html" title="Title">Kanji (${leveltwo.length}) Results</a><h1>
+${leveltwo.map(kanjiTemplate).join('')}
+<p class="footer">These ${leveltwo.length} kanji were added recently. Check back soon for updates. UwU</p>
 </body>
 `
