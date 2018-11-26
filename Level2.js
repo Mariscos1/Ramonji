@@ -1,17 +1,17 @@
 const leveltwo = [
   {
-      kan: "一",
-      roma: "Ichi",
-      hira: "ひと-, ひと",
-      kata: "イチ, イツ",
-      meaning: "one"
+      kan: "医",
+      roma: "I",
+      hira: "い",
+      kata: "イ",
+      meaning: "medicine, doctor, medical"
   },
   {
-      kan: "二",
-      roma: "Ni",
-      hira:"に",
-      kata: "ニ",
-      meaning: "two"
+      kan: "不",
+      roma: "Fu",
+      hira:"ふ",
+      kata: "フ",
+      meaning: "Not, non-"
   }
   
   ];
