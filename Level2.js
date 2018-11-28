@@ -12,8 +12,21 @@ const leveltwo = [
       hira:"ふ",
       kata: "フ",
       meaning: "Not, non-"
+  },
+  {
+      kan: "女",
+      roma: "Onna",
+      hira:"おんあ",
+      kata: "オンア",
+      meaning: "Woman"
+  },
+  {
+      kan: "主",
+      roma: "Omo",
+      hira:"おも",
+      kata: "オンア",
+      meaning: "Main, Leader, Chief"
   }
-  
   ];
 
 function kanjiTemplate(symbol){
