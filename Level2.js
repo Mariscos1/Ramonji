@@ -33,6 +33,13 @@ const leveltwo = [
       hira:"く",
       kata: "ク",
       meaning: "Ward, district"
+  },
+  {
+      kan: "能",
+      roma: "No",
+      hira:"のお",
+      kata: "ノオ",
+      meaning: "ability, skill"
   }
   ];
 
