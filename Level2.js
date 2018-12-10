@@ -52,8 +52,15 @@ const leveltwo = [
       kan: "思",
       roma: "Shitau",
       hira:"したう",
-      kata: "したう",
+      kata: "シタウ",
       meaning: "think, thought"
+  },
+  {
+      kan: "者",
+      roma: "Mono",
+      hira:"もの",
+      kata: "モノ",
+      meaning: "person, a person"
   }
   ];
 
