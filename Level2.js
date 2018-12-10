@@ -40,6 +40,13 @@ const leveltwo = [
       hira:"のお",
       kata: "ノオ",
       meaning: "ability, skill"
+  },
+  {
+      kan: "質",
+      roma: "Shitsu",
+      hira:"しつ",
+      kata: "シツ",
+      meaning: "quality, substance, matter"
   }
   ];
 
