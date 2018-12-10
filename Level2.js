@@ -61,6 +61,13 @@ const leveltwo = [
       hira:"もの",
       kata: "モノ",
       meaning: "person, a person"
+  },
+  {
+      kan: "英",
+      roma: "Ei",
+      hira:"えい",
+      kata: "エイ",
+      meaning: "English"
   }
   ];
 
