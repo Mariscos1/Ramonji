@@ -47,6 +47,13 @@ const leveltwo = [
       hira:"しつ",
       kata: "シツ",
       meaning: "quality, substance, matter"
+  },
+  {
+      kan: "思",
+      roma: "Shitau",
+      hira:"したう",
+      kata: "したう",
+      meaning: "think, thought"
   }
   ];
 
