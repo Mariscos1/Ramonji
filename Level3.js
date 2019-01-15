@@ -81,7 +81,7 @@ function kanjiTemplate(symbol){
   </div>
   `
 }
-document.getElementById("displaytwo").innerHTML = `
+document.getElementById("displaythree").innerHTML = `
       <link rel="stylesheet" type="text/css" href="something.css" />
 <style>
   body{
