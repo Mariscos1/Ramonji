@@ -40,6 +40,13 @@ const levelthree = [
       hira: "ちがう",
       kata: "チガウ",
       meaning: "Difference, differ"
+  },
+  {
+      kan: "権",
+      roma: "Ken",
+      hira: "けん",
+      kata: "ケン",
+      meaning: "authority, power"
   }
   
   
