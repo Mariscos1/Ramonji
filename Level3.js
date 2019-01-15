@@ -1,74 +1,48 @@
 const levelthree = [
   {
-      kan: "医",
-      roma: "I",
-      hira: "い",
-      kata: "イ",
-      meaning: "medicine, doctor, medical"
+      kan: "米",
+      roma: "Amerika",
+      hira: "あめりか",
+      kata: "アメリカ",
+      meaning: "Rice, USA"
   },
   {
-      kan: "不",
-      roma: "Fu",
-      hira:"ふ",
-      kata: "フ",
-      meaning: "Not, non-"
+      kan: "念",
+      roma: "Nen",
+      hira: "ねん",
+      kata: "ネン",
+      meaning: "wish, remembrance"
   },
   {
-      kan: "女",
-      roma: "Onna",
-      hira:"おんあ",
-      kata: "オンア",
-      meaning: "Woman"
+      kan: "件",
+      roma: "Kudan",
+      hira: "くだん",
+      kata: "クダン",
+      meaning: "affair, matter"
   },
   {
-      kan: "主",
-      roma: "Omo",
-      hira:"おも",
-      kata: "オンア",
-      meaning: "Main, Leader, Chief"
+      kan: "所",
+      roma: "Tokoro",
+      hira: "ところ",
+      kata: "トコト",
+      meaning: "place"
   },
   {
-      kan: "区",
-      roma: "Ku",
-      hira:"く",
-      kata: "ク",
-      meaning: "Ward, district"
+      kan: "断",
+      roma: "Dan",
+      hira: "だん",
+      kata: "ダン",
+      meaning: "severance, disconnect"
   },
   {
-      kan: "能",
-      roma: "No",
-      hira:"のお",
-      kata: "ノオ",
-      meaning: "ability, skill"
-  },
-  {
-      kan: "質",
-      roma: "Shitsu",
-      hira:"しつ",
-      kata: "シツ",
-      meaning: "quality, substance, matter"
-  },
-  {
-      kan: "思",
-      roma: "Shitau",
-      hira:"したう",
-      kata: "シタウ",
-      meaning: "think, thought"
-  },
-  {
-      kan: "者",
-      roma: "Mono",
-      hira:"もの",
-      kata: "モノ",
-      meaning: "person, a person"
-  },
-  {
-      kan: "英",
-      roma: "Ei",
-      hira:"えい",
-      kata: "エイ",
-      meaning: "English"
+      kan: "違う",
+      roma: "Chigau",
+      hira: "ちがう",
+      kata: "チガウ",
+      meaning: "Difference, differ"
   }
+  
+  
   ];
 
 function kanjiTemplate(symbol){
