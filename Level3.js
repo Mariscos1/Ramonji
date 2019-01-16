@@ -47,6 +47,13 @@ const levelthree = [
       hira: "けん",
       kata: "ケン",
       meaning: "authority, power"
+  },
+  {
+      kan:"才",
+      roma: "Sai",
+      hira: "さい",
+      kata: "サイ", 
+      meaning: "age"
   }
   
   
