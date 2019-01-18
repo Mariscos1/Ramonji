@@ -54,7 +54,50 @@ const levelthree = [
       hira: "さい",
       kata: "サイ", 
       meaning: "age"
+  },
+  {
+      kan: "官",
+      roma: "Kan",
+      hira: "かん",
+      kata: "カン",
+      meaning: "bureaucrat, the government"
+  },
+  {
+      kan: "絵",
+      roma: "E",
+      hira: "え",
+      kata: "エ",
+      meaning: "picture, drawing, painting, sketch"
+  },
+  {
+      kan: "放",
+      roma: "Ho",
+      hira: "ほう",
+      kata: "ホウ",
+      meaning: "set free, release"
+  },
+  {
+      kan: "愛",
+      roma: "Ai",
+      hira: "あい",
+      kata: "アイ",
+      meaning: "love"
+  },
+  {
+      kan: "途",
+      roma: "To",
+      hira: "と",
+      kata: "ト",
+      meaning: "route, way, road"
+  },
+  {
+      kan: "状",
+      roma: "Jo",
+      hira: "じょう",
+      kata: "ジョウ",
+      meaning: "status quo, conditions, circumstances, form, appearance"
   }
+  
   
   ];
 
