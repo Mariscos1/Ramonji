@@ -54,16 +54,7 @@ const levelthree = [
       hira: "さい",
       kata: "サイ", 
       meaning: "age"
-  },
   }
-      kan: "官",
-      roma: "Kan",
-      hira: "かん",
-      kata: "カン",
-      meaning: "bureaucrat, the government"
-  }
-  
-  
   
   ];
 
