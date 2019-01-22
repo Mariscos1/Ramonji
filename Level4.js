@@ -1,104 +1,46 @@
 const levelfour = [
   {
-      kan: "米",
-      roma: "Amerika",
-      hira: "あめりか",
-      kata: "アメリカ",
-      meaning: "Rice, USA"
+      kan: "複",
+      roma: "Fuku",
+      hira: "ふく",
+      kata: "フク",
+      meaning: "Double, multiple"
   },
   {
-      kan: "念",
-      roma: "Nen",
-      hira: "ねん",
-      kata: "ネン",
-      meaning: "wish, remembrance"
+      kan:"齢",
+      roma:"Yowai",
+      hira:"よわい",
+      kata:"ヨワイ",
+      meaning:"age"
   },
   {
-      kan: "件",
-      roma: "Kudan",
-      hira: "くだん",
-      kata: "クダン",
-      meaning: "affair, matter"
+      kan:"谷",
+      roma:"Tani",
+      hira:"たに",
+      kata:"タニ",
+      meaning: "valley"
   },
   {
-      kan: "所",
-      roma: "Tokoro",
-      hira: "ところ",
-      kata: "トコト",
-      meaning: "place"
+      kan:"封",
+      roma:"Fuu",
+      hira:"ふう",
+      kata:"フウ",
+      meaning: "A seal(envelope), closing"
   },
   {
-      kan: "断",
-      roma: "Dan",
-      hira: "だん",
-      kata: "ダン",
-      meaning: "severance, disconnect"
+      kan:"総",
+      roma:"Sou",
+      hira:"そう",
+      kata:"ソウ",
+      meaning: "total, gross, general"
   },
   {
-      kan: "違う",
-      roma: "Chigau",
-      hira: "ちがう",
-      kata: "チガウ",
-      meaning: "Difference, differ"
-  },
-  {
-      kan: "権",
-      roma: "Ken",
-      hira: "けん",
-      kata: "ケン",
-      meaning: "authority, power"
-  },
-  {
-      kan:"才",
-      roma: "Sai",
-      hira: "さい",
-      kata: "サイ", 
-      meaning: "age"
-  },
-  {
-      kan: "官",
-      roma: "Kan",
-      hira: "かん",
-      kata: "カン",
-      meaning: "bureaucrat, the government"
-  },
-  {
-      kan: "絵",
-      roma: "E",
-      hira: "え",
-      kata: "エ",
-      meaning: "picture, drawing, painting, sketch"
-  },
-  {
-      kan: "放",
-      roma: "Ho",
-      hira: "ほう",
-      kata: "ホウ",
-      meaning: "set free, release"
-  },
-  {
-      kan: "愛",
-      roma: "Ai",
-      hira: "あい",
-      kata: "アイ",
-      meaning: "love"
-  },
-  {
-      kan: "途",
-      roma: "To",
-      hira: "と",
-      kata: "ト",
-      meaning: "route, way, road"
-  },
-  {
-      kan: "状",
-      roma: "Jo",
-      hira: "じょう",
-      kata: "ジョウ",
-      meaning: "status quo, conditions, circumstances, form, appearance"
+      kan:"黄",
+      roma:"Ki",
+      hira:"き",
+      kata:"キ",
+      meaning: "yellow"
   }
-  
-  
   ];
 
 function kanjiTemplate(symbol){
