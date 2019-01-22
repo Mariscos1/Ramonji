@@ -40,6 +40,13 @@ const levelfour = [
       hira:"き",
       kata:"キ",
       meaning: "yellow"
+  },
+  {
+      kan:"纂",
+      roma:"San",
+      hira:"さん",
+      kata:"サン",
+      meaning: "Editing, compilation"
   }
   ];
 
