@@ -79,6 +79,7 @@ li {
     float: left;
 }
 li a {
+    margin-left: 250px;
     display: block;
     color: white;
     text-align: center;
