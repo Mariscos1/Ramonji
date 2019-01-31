@@ -4,8 +4,8 @@
 } 
 
   @keyframes example {
-  from {background-color: red;}
-  to {background-color: yellow;}
+  from {background-color: #6B3E34;}
+  to {background-image: repeating-linear-gradient(red, yellow 10%, green 20%);}
 }
 
   iframe {
