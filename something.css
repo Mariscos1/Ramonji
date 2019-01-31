@@ -73,7 +73,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+    background-image: repeating-radial-gradient(red, yellow 10%, green 15%);
     texas-align: center;
 }
 li {
