@@ -88,6 +88,9 @@
   font-weight: normal;
   margin: 0 0 1rem 0;
 }
+.saturate {
+  -webkit-filter: saturate(7); filter: saturate(7);
+}
 
 ul {
     list-style-type: none;
