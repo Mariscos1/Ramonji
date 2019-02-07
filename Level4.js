@@ -89,6 +89,13 @@ const levelfour = [
       hira:"つぶ",
       kata:"ツブ",
       meaning:"grain"
+  },
+  {
+      kan:"糞",
+      roma:"Kuso",
+      hira:"くそ",
+      kata:"クソ",
+      meaning:"poop, feces, s-word"
   }
   ];
 
