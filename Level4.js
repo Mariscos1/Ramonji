@@ -54,6 +54,41 @@ const levelfour = [
       hira: "ひ",
       kata: "ヒ",
       meaning: "dry"
+  },
+  {
+      kan:"祭",
+      roma: "Matsuri",
+      hira: "まつり",
+      kata: "マツリ",
+      meaning: "festival"
+  },
+  {
+      kan:"比",
+      roma:"Hi",
+      hira:"ひ",
+      kata:"ヒ",
+      meaning:"ratio"
+  },
+  {
+      kan:"撚る",
+      roma:"Yoru",
+      hira:"よる",
+      kata:"ヨル",
+      meaning:"twisted, to twist, twist"
+  },
+  {
+      kan:"刷",
+      roma:"Suri",  
+      hira:"すり",
+      kata:"スリ",
+      meaning:"print, to print"
+  },
+  {
+      kan:"粒",
+      roma:"tsubu",
+      hira:"つぶ",
+      kata:"ツブ",
+      meaning:"grain"
   }
   ];
 
