@@ -96,6 +96,20 @@ const levelfour = [
       hira:"くそ",
       kata:"クソ",
       meaning:"poop, feces, s-word"
+  },
+  {
+      kan:"姑",
+      roma:"Shuutome",
+      hira:"しゅうとめ",
+      kata:"シュウトメ",
+      meaning:"Mother In-Law"
+  },
+  {
+      kan:"脊",
+      roma:"Se",
+      hira:"せ",
+      kata:"セ",
+      meaning:"height, the spine"
   }
   ];
 
