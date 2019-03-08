@@ -105,7 +105,7 @@ ul {
 }
 
 ul:hover{
-  background-image: url("sunset.jpg");
+  background-color: #71487e;
 }
 
 li {
